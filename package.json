@@ -1,5 +1,5 @@
 {
-  "name": "angularclient",
+  "name": "springbootangularclient",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
